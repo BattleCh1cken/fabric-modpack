@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".direnv/flake-profile"
+hash = "e6ff24522b191e8d575f7d0a1e1c2327895461285eef30d4af6afe7ed3511152"
+
+[[files]]
+file = ".direnv/flake-profile-1-link"
+hash = "b400f54b5e73736994626c493319b349d9eb87066788dd50449ab632c8c18abc"
+
+[[files]]
+file = ".direnv/flake-profile-2-link"
+hash = "e6ff24522b191e8d575f7d0a1e1c2327895461285eef30d4af6afe7ed3511152"
+
+[[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "b9f6e59580784f1fc6104c64e28f09d00cbfc1a5083604a1f4dbdef8900bb56e"
 
@@ -41,8 +57,26 @@ file = "config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
+file = "flake.lock"
+hash = "f083865380c876cdf2850d2f940d0fb5859628a7eaa9a9ea490a6b2f00df6dcf"
+
+[[files]]
+file = "flake.nix"
+hash = "99d0becb586d40adbc7383fb9497ca2d2e17903f10a288abbca35e67dd43d55c"
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
@@ -78,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7d36d5a19b32363dc9795b0f4610705e332c0100169b2ec4a54654b0923ba89f"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
