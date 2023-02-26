@@ -499,11 +499,6 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
-file = "mods/spellbound-weapons.pw.toml"
-hash = "bc4f3fef852343c59a1e61f0ffd7ac16da55fae705d49ffc29e117f4d5ff8b4c"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
