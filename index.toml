@@ -75,6 +75,11 @@ hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "c9d28291c17439183888a49a64db5e09c3e7ee8cc972b61232ab660e311920c7"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "82a7535fae2844c327b9305daeef0a0de4e3c3044c14f3e8969b7f21ccd6792e"
 metafile = true
@@ -112,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "257fbabe126fd6280f855c30b3a827cb0ab343cceb6374b374951c3384ce6ddc"
+metafile = true
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
@@ -335,6 +345,11 @@ hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
+metafile = true
+
+[[files]]
 file = "mods/mealapi.pw.toml"
 hash = "52e30de45d677c864cca9b37357b7b9d16d73947d21f8ecba2df705f820fdb99"
 metafile = true
@@ -352,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "79e31e1697a4121696b9a1817ff75ebe58af1514f132cdc64522d4ca4e0cdd08"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "49cc3b15b18fe78923c88f79098b31f9a72b8d61e91d365b091783995df3b1f3"
 metafile = true
 
 [[files]]
@@ -467,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "4d96a506e499dd7722bf1f371100b506dcba8ae3284f88ffefcb4d5c16fbcac8"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
 metafile = true
 
 [[files]]
