@@ -150,6 +150,11 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
+file = "mods/cave-enhancements.pw.toml"
+hash = "e1f12539619d9b28b2f2a87471589dc6cb71062e8b481f46e3448fa6eac43121"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -312,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "ed2b52314152752376a966499cc9d9ff718be397315fce9461da3beb13f56b7c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "7a3a7a8caba9c3878892e59d87a82f0fddb537083a6a5e88f462c7415a9fd1d5"
 metafile = true
 
 [[files]]
