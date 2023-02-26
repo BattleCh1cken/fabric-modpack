@@ -65,8 +65,18 @@ file = "flake.nix"
 hash = "99d0becb586d40adbc7383fb9497ca2d2e17903f10a288abbca35e67dd43d55c"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "c5fe06b7d389fa87dadca4f4974660eff26b336a908ee506fd616f717e1be581"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "744abba2566fd402bf2eeda7ad6e6b8921deda07f691b58718da2b9761c78cb4"
 metafile = true
 
 [[files]]
@@ -135,6 +145,11 @@ hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
+file = "mods/grounded-origins.pw.toml"
+hash = "dd34f990a87dfc5fcf97ce17651b441695cd7519807072300740e1f04eb1668f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7d36d5a19b32363dc9795b0f4610705e332c0100169b2ec4a54654b0923ba89f"
 metafile = true
@@ -165,8 +180,38 @@ hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
+file = "mods/moborigins.pw.toml"
+hash = "fe097eb478c7baa049eecc9b500168c7cdb7b932591490d464a4015cae89d9f1"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "79e31e1697a4121696b9a1817ff75ebe58af1514f132cdc64522d4ca4e0cdd08"
+metafile = true
+
+[[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "76ef4376a9f854e27f19b0a2e81eecf2ab4857462d3e30c78961e4a46ba3a7b7"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "bb7a3fce6f6350212dd0460fd73f2a25c44f0789331faabd5e6b14e60713711f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "885f1cb690e38020936cb7b62db9136994f1f758e26794772bf4db4a3f596c41"
 metafile = true
 
 [[files]]
@@ -182,6 +227,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
+metafile = true
+
+[[files]]
+file = "mods/toomanyorigins.pw.toml"
+hash = "eeb63d57f841fe012fa0504b352636b9455c73d58055dbe379c6593f97252826"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
