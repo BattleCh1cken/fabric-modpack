@@ -80,6 +80,11 @@ hash = "82a7535fae2844c327b9305daeef0a0de4e3c3044c14f3e8969b7f21ccd6792e"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
 file = "mods/architects-palette-fabric.pw.toml"
 hash = "5d7e323c56fe38f5cbab8e6ebcfb157e7f42c37b9acbaf474f1d21766802157f"
 metafile = true
@@ -87,6 +92,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
 
 [[files]]
@@ -145,6 +160,11 @@ hash = "93141c1357ce7d2f01299a3738489346dafc79cf8e46e8be98516ca4c2410711"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "024e9ce1c59032baaf74867f7ceb8ec03e1de56bfa9ff8a8a14e4e00a91b3401"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear-fabric.pw.toml"
 hash = "790d09e1bee44adf6f4867d2c63a4626c96c5b8eec0b9f8ea2a14f8465434f02"
 metafile = true
@@ -170,8 +190,18 @@ hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "0cf50ca461e5fdb9af2ddc0a5d9661b6d578b0897dd6597a875255e4ed656450"
 metafile = true
 
 [[files]]
@@ -192,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
 
 [[files]]
@@ -262,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "ba73ee08a08351f8ba3895a24a477bf14216724d06e28ddc10b3179f3a4fa86e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "ed2b52314152752376a966499cc9d9ff718be397315fce9461da3beb13f56b7c"
 metafile = true
 
 [[files]]
@@ -400,6 +440,11 @@ hash = "9564fdec81b576b808ff2b86890977dd2ebb242013580c42d93ca73a0eb0c1aa"
 metafile = true
 
 [[files]]
+file = "mods/sky-villages.pw.toml"
+hash = "472e85c66624b2a93f2d1a25c4f01dcf534525e271e6e525c610411fa2d1fb9f"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -447,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "7c8a624ce6e9143ac32125924d2f6fc4c5535aed367be7420556185cee7ff09c"
 metafile = true
 
 [[files]]
