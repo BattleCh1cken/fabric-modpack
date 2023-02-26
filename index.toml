@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".direnv/flake-profile"
-hash = "e6ff24522b191e8d575f7d0a1e1c2327895461285eef30d4af6afe7ed3511152"
-
-[[files]]
-file = ".direnv/flake-profile-1-link"
-hash = "b400f54b5e73736994626c493319b349d9eb87066788dd50449ab632c8c18abc"
-
-[[files]]
-file = ".direnv/flake-profile-2-link"
-hash = "e6ff24522b191e8d575f7d0a1e1c2327895461285eef30d4af6afe7ed3511152"
-
-[[files]]
 file = ".envrc"
 hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
 
