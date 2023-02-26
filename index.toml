@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".envrc"
-hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
-
-[[files]]
 file = "config/c2me.toml"
 hash = "b9f6e59580784f1fc6104c64e28f09d00cbfc1a5083604a1f4dbdef8900bb56e"
 
@@ -43,14 +39,6 @@ hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
 [[files]]
 file = "config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
-
-[[files]]
-file = "flake.lock"
-hash = "f083865380c876cdf2850d2f940d0fb5859628a7eaa9a9ea490a6b2f00df6dcf"
-
-[[files]]
-file = "flake.nix"
-hash = "99d0becb586d40adbc7383fb9497ca2d2e17903f10a288abbca35e67dd43d55c"
 
 [[files]]
 file = "mods/addadd.pw.toml"

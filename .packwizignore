@@ -4,3 +4,6 @@
 # Exclude README
 /README.md
 .direnv/
+.envrc
+flake.nix
+flake.lock
