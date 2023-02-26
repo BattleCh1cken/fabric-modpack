@@ -381,11 +381,6 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
-file = "mods/paladins-furniture.pw.toml"
-hash = "02d1024c42cd3671768a7b851a5dc95498b28b892581cd0969bf7c8a44277266"
-metafile = true
-
-[[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "a3e2b4163f57d1f711a5be765d0d1a4c7722bcd0f35a141c0f177d59e2ca17d6"
 metafile = true
