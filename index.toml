@@ -154,6 +154,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/charm-fixer.pw.toml"
+hash = "e6d715337d086c10a0856276752172813d75e4702a228098d41ef93ea2c6cf39"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
@@ -349,6 +354,11 @@ hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "31d7d57cf0d65483fca5ead4ba11a0c63efb5c38a9bfd959f64a380908b6bace"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -386,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/moborigins.pw.toml"
 hash = "fe097eb478c7baa049eecc9b500168c7cdb7b932591490d464a4015cae89d9f1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
