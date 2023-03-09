@@ -134,11 +134,6 @@ hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
 metafile = true
 
 [[files]]
-file = "mods/cammies-wearable-backpacks.pw.toml"
-hash = "aaad95e75c5d68c58c315bd574f339ff30ff975ec1802812417052a099596620"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
@@ -551,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "f7fa1682ebb46d34efb8a4a5fca1dd52781016598a2d3b6aa9b4fca8ecc5daf2"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "ae9e78493f83be29d93af45efa396240296be7eb004f1e5f5d5f3f1f7bf2e559"
 metafile = true
 
 [[files]]
