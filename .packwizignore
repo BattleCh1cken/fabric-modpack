@@ -1,5 +1,6 @@
 .git/**
 .direnv/**
 *.mrpack
+.envrc
 flake.nix
 flake.lock
