@@ -1,0 +1,13 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
+file = "flake.lock"
+hash = "9c0a91e64bb4e911ef69c15fda16fa1cce5e8d32803d6fa7ef40e108e3ac2e39"
+
+[[files]]
+file = "flake.nix"
+hash = "5587450ec7991fb4452e92540d34f29279b6fd2be08e63aae30638afdca7e6cc"

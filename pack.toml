@@ -1,0 +1,13 @@
+name = "create-modpack"
+author = "BattleCh1cken"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "10cb6f3bc69833ad6d02b6608e7f2b98ba8751078f2cf08997fb1fb0f9788803"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"
