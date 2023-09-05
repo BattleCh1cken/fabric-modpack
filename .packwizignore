@@ -1,2 +1,5 @@
 .git/**
 .direnv/**
+*.mrpack
+flake.nix
+flake.lock
