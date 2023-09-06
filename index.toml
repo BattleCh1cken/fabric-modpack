@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "7ede2c96b64a75bd8f583a5a71eabcf64c6a81afc2f78e35f869dcde2551d56f"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
