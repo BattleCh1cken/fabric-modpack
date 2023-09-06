@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENCE"
+hash = "d1e230d0edffda0d48428f20e1500a38466a7449f0e09b133956cdef774e0c6d"
+
+[[files]]
 file = "config/spiceoffabric.hjson"
 hash = "7ede2c96b64a75bd8f583a5a71eabcf64c6a81afc2f78e35f869dcde2551d56f"
 

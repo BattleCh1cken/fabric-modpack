@@ -2,5 +2,8 @@
 .direnv/**
 *.mrpack
 .envrc
+assets/**
 flake.nix
 flake.lock
+README.md
+LICENSE
