@@ -6,7 +6,7 @@ hash = "d1e230d0edffda0d48428f20e1500a38466a7449f0e09b133956cdef774e0c6d"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "7ede2c96b64a75bd8f583a5a71eabcf64c6a81afc2f78e35f869dcde2551d56f"
+hash = "c7e0395d2018e6ac198e0c5511032bb4ad5eee0bc34ae1a11911672fb627a2a7"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -41,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
 metafile = true
 
 [[files]]
