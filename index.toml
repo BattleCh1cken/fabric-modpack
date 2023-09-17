@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0eade623c5e691a94d27ff5e950afe34d4ce8c2f89f63d1748bb947c91736c9a"
+hash = "c5273660430701af5eb1cb8cc298db8266756bb8bb5c87a6031ce96b33cd8ffc"
 metafile = true
 
 [[files]]
@@ -41,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "900f4444a5e6c07bc93184ee08a1eb25c2fb910a78db318b63a6739e249d8bb7"
 metafile = true
 
 [[files]]
@@ -79,6 +84,11 @@ hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
@@ -86,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
@@ -119,6 +134,11 @@ hash = "1296ce4ca13eeb1b1b0f52d9098fa50e7545c8234aef898cb766d8c983003ca1"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "bbb4e7c121172488f10893135d76b2c9c0bbe9c6e9e9253b5b2ab92ec88a303f"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "2c8dba30f0dd63974cba6e2a30bd6a60f1d69bddce537e5cc2137278926d39e0"
 metafile = true
@@ -126,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "20d8dfbc90c81bb784a17b7f88c4ff00ecb9946c29244af47b9e1586a9395a8d"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
 
 [[files]]
@@ -151,6 +176,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "2cc40f90565538ed48daa25af8b59240eebc50e9cc2788f4ef73dfa23e87d387"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "89dc1a19957a4e5c20b083370cd5107121468100f81b6321729c44fb5d7ece99"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "f571f48ebbb092e753c8b78013e734806afe22cf87f815829aaf67f333a689b4"
 metafile = true
 
 [[files]]
