@@ -54,8 +54,8 @@ hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
 metafile = true
 
 [[files]]
-file = "mods/creeper-spores.pw.toml"
-hash = "cc42b5f7578a8cc561e5a94a1885e12e32d7570f1bb452b62365405e94a8981b"
+file = "mods/creeper-firework.pw.toml"
+hash = "3a4ec901844634526f3afc85390e0482f792b348df1b1059c30ac1a26a434f79"
 metafile = true
 
 [[files]]
