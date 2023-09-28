@@ -54,6 +54,11 @@ hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
 metafile = true
 
 [[files]]
+file = "mods/creeper-spores.pw.toml"
+hash = "cc42b5f7578a8cc561e5a94a1885e12e32d7570f1bb452b62365405e94a8981b"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "bc9905492f54c07bb62a5126a3ef53188a71a52ada9dc2a84a2888fba6739906"
 metafile = true
