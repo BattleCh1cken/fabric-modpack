@@ -129,16 +129,6 @@ hash = "456a158c501f6a5f1d672c78ab0a0ecd836025ad06b717ce325dc4133daf3f73"
 metafile = true
 
 [[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "1296ce4ca13eeb1b1b0f52d9098fa50e7545c8234aef898cb766d8c983003ca1"
-metafile = true
-
-[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "bbb4e7c121172488f10893135d76b2c9c0bbe9c6e9e9253b5b2ab92ec88a303f"
 metafile = true
