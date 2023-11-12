@@ -24,6 +24,11 @@ hash = "368c405be7efc817b528461902c950fbb1f6a9d58cbf561760bae4d5705f96c4"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "c5273660430701af5eb1cb8cc298db8266756bb8bb5c87a6031ce96b33cd8ffc"
 metafile = true
@@ -36,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
@@ -74,6 +84,11 @@ hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "3fab0faf851513090ce8ee932cdbb6f1ec7c2b68510457d41b21f176a43e750a"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
 metafile = true
@@ -104,11 +119,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "9db7f06dd55021ec4a9d3c104ff694184088f940db16ec39e6eb27d167203033"
 metafile = true
@@ -124,6 +134,16 @@ hash = "3903f1a1e5d995906578f94c41036f7d04bdc2b33e1420fc3c34537c8abd4c02"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "8547edbdc700238255794cdbb3b142d2bdb9f17a65b36ac1ce3c92e1aa942c3d"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "456a158c501f6a5f1d672c78ab0a0ecd836025ad06b717ce325dc4133daf3f73"
 metafile = true
@@ -134,6 +154,11 @@ hash = "bbb4e7c121172488f10893135d76b2c9c0bbe9c6e9e9253b5b2ab92ec88a303f"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "77043498c548bdcf579a6eedf6f52621b65696e1957327ebd6421e699fa61f01"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "2c8dba30f0dd63974cba6e2a30bd6a60f1d69bddce537e5cc2137278926d39e0"
 metafile = true
@@ -141,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "20d8dfbc90c81bb784a17b7f88c4ff00ecb9946c29244af47b9e1586a9395a8d"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
@@ -174,13 +204,28 @@ hash = "2cc40f90565538ed48daa25af8b59240eebc50e9cc2788f4ef73dfa23e87d387"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "b3a3bf0f0ef9a919323d91b890ce79e59a53f60458bf5285b4d46e5692b17ebf"
+metafile = true
+
+[[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "89dc1a19957a4e5c20b083370cd5107121468100f81b6321729c44fb5d7ece99"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
+metafile = true
+
+[[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "f571f48ebbb092e753c8b78013e734806afe22cf87f815829aaf67f333a689b4"
+metafile = true
+
+[[files]]
+file = "mods/wunderreich.pw.toml"
+hash = "f2fa90bb1460fcee29cf2aee3a077e3114b5437a5659587f6d083ff977a19320"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Bepic Create"
 author = "BattleCh1cken"
-version = "1.5.0"
+version = "1.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "aaf12243d475af215d75d7e0932c7e1cba449fda3ba132d84bbbf47dd0acb881"
+hash = "76294fc2a2bccc7bfa686e08c910c87b5ccd1f109088d3166d7ef0bb5afa869c"
 
 [versions]
 fabric = "0.14.22"
